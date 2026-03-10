@@ -9,7 +9,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #eaeded;
+    background-color: #fff5fe;
     line-height: 1.4;
 }
 
@@ -42,7 +42,7 @@ ul {
 
 /* Barra principal del header */
 .header-main {
-    background-color: #131921;
+    background-color: #e00d9a;
     padding: 10px 0;
 }
 
@@ -62,10 +62,11 @@ ul {
     font-size: 24px;
     font-weight: bold;
     white-space: nowrap;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .logo a:hover {
-    color: #febd69;
+    color: #ffffff;
 }
 
 /* Barra de búsqueda */
@@ -86,16 +87,17 @@ ul {
 }
 
 .search-bar .search-btn {
-    background-color: #febd69;
+    background-color: #f337b4;
     border: none;
     padding: 0 15px;
     cursor: pointer;
     font-size: 18px;
+    color: rgb(231, 223, 227);
     transition: background-color 0.2s;
 }
 
 .search-bar .search-btn:hover {
-    background-color: #f3a847;
+    background-color: #f74abd;
 }
 
 /* Enlaces de navegación */
@@ -154,12 +156,12 @@ ul {
 
 .cart-count {
     font-size: 12px;
-    color: #febd69;
+    color: #e433af;
 }
 
 /* Sub-navegación */
 .header-sub {
-    background-color: #232f3e;
+    background-color: #f530c4;
     padding: 8px 0;
 }
 
